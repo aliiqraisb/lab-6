@@ -1,0 +1,46 @@
+*{
+    font-family: "poppins";
+    font-size: 14px;
+    font-weight: 290;
+}
+
+.font-size-25{
+    font-size: 25px;
+}
+
+.font-size-17{
+    font-size: 17px;
+}
+
+a{
+    color: black;
+}
+
+.w-10{
+    width: 9%;
+}
+
+.mt-8{
+    margin-top: 6rem;
+}
+
+.btn-project{
+    font-size: 13px;
+    width: 30%;
+    padding: 14px;
+    border-radius: 100px !important;
+}
+
+.btn-play{
+    font-size: 49px;
+}
+.logo-wrapper {
+    width: 65px;
+    height: 60px;
+  }
+
+  .logo {
+    width: 60px;
+    height: 60px;
+    vertical-align: middle;
+  }
